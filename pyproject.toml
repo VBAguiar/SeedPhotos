@@ -4,6 +4,7 @@ version = "0.1.2"
 description = "A lib that create image through words"
 authors = ["Vinicius Barbosa de Aguiar <vb9763662@gmail.com>"]
 license = "MIT"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
