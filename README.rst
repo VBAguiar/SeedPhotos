@@ -29,6 +29,7 @@ How to use:
 With all parameters satisfied it looks like this:
 
 .. code-block:: python
+    
     from seedphotos.photos import *
 
     photos = Photos(width=300, height=300, filename='image', seed='Brazil', folder='/home/barbosa/test/test', format='jpg')
