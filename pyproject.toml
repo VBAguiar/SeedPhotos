@@ -1,8 +1,9 @@
 [tool.poetry]
-name = "SeedPhotos"
+name = "seedphotos"
 version = "0.1.0"
-description = ""
+description = "A lib that create image through words"
 authors = ["Vinicius Barbosa de Aguiar <vb9763662@gmail.com>"]
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
