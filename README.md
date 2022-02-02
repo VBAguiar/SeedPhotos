@@ -2,19 +2,16 @@
 
 <p>A lib that create image through words</p>
 
-## Install:
+### Install:
+
 
 <p>Use poetry or pip for installation: </p>
 
     pip install seedphotos
 
-or
-
     poetry add seedphotos
 
-
-
-## How to use:
+### How to use:
 
 ```python
 from seedphotos.photos import *
